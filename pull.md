@@ -1,0 +1,6 @@
+- B1: pull về main trên máy mình: git pull origin main
+- B2: tạo branch test pull từ branch mình đang code: git branch pull-branch code-branch
+- B3: chuyển sang pull-branch
+- B4: merge main vào pull-branch: git merge main
+- B5: chuyển về branch của mình
+- B6: merge main vào code-branch
